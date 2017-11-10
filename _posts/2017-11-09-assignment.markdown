@@ -33,5 +33,6 @@ Todos irão escrever um post colaborativamente
 4. O texto do post deve ser composto por, no mínimo, 36 parágrafos
 5. O mesmo usuário não pode submeter dois PR em sequência
 6. Todo usuário deve mandar, no mínimo 2 PRs
+7. Toda a divisão de tarefas deve ser via Issues
 
 O resultado esperado é um post "completo" no repositório gnomex/try-git
